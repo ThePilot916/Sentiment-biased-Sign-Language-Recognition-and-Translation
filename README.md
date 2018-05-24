@@ -1,4 +1,4 @@
-# Sign Recognition and Translation
+# Sentiment biased Sign Language Recognition and Translation
 
 NLP_PROJECT 2018
 
